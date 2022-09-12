@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "coc-git": ">=2.5.3",
+    "coc-prettier": ">=9.3.1"
+  }
+}
